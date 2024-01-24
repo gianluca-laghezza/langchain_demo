@@ -2,7 +2,7 @@
 An automated test generator using genAI and langChain
 ---
 
-This is a completely automated service that creates open ended questions for students and grades the student's answer. The inputs required are the topic of interest and the core standard that we want to use to evaluate the student’s response on.
+This is a completely automated service that creates open ended questions for students and grades the student's answer. The inputs required are the topic of interest and the core standard that we want to use to evaluate the student’s response on (following the [core standard initiative](https://www.thecorestandards.org/)).
 
 ## Test creation
 The prototype looks for the relevant page in Wikipedia that describes the topic given as an input. Then it splits the page in sections. One section gets randomly chosen to be used as the context to create the question.
