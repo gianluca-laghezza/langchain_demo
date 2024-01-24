@@ -1,6 +1,6 @@
-# langchain_demo
-An automated test generator using genAI and langChain
----
+# LangChain Demo
+## An automated test generator using genAI and langChain
+
 
 This is a completely automated service that creates open ended questions for students and grades the student's answer. The inputs required are the topic of interest and the core standard that we want to use to evaluate the student’s response on (following the [core standard initiative](https://www.thecorestandards.org/)).
 
